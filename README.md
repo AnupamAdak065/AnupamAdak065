@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-**Hey there! 👋**
-
 I'm Anupam, a Data Analyst based in India. 
 
 I love transforming raw, messy data into actionable business insights. 
