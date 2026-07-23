@@ -8,7 +8,7 @@ If there's a trend hidden in a dataset, chances are I'll find it, clean it, and 
 
 My main tech stack is Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn), SQL, Excel, Power BI, Tablue, IBM Cognos Analytics, Snowflake, Generative AI. My favorite tools are advanced Excel for deep-dive data manipulation and Snowflake for cloud data warehousing.
 
-I've got a bunch of pinned projects, but my recent favorite is a housing market analysis utilizing linear and Ridge regression models. I use this space to actively showcase my projects, lab work, and practice notes.
+I've got a bunch of pinned projects, but my recent favorite is Stack Overflow Survay Data Analysis. I use this space to actively showcase my projects, lab work, and practice notes.
 
 Currently, I'm completing the IBM Data Analyst Professional Certificate—including diving into Generative AI to see how it shapes the future of analytics!
 
